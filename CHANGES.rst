@@ -1,4 +1,4 @@
-0.7.4 (2025-12-09)
+0.7.4-powergo (2025-12-09)
 -------------------
 
 - Replace ugettext_lazy with gettext_lazy for Django 4.2 compatibility
