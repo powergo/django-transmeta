@@ -6,7 +6,7 @@ from django.db.models.fields import NOT_PROVIDED
 from django.conf import settings
 from django.core.exceptions import ImproperlyConfigured
 from django.utils.translation import (
-    get_language as django_get_language, ugettext_lazy as _)
+    get_language as django_get_language, gettext_lazy as _)
 
 
 LANGUAGE_CODE = 0

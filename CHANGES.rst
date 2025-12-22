@@ -1,3 +1,8 @@
+0.7.4-powergo (2025-12-09)
+-------------------
+
+- Replace ugettext_lazy with gettext_lazy for Django 4.2 compatibility
+
 0.7.3 (2013-09-02)
 -------------------
 
@@ -42,7 +47,7 @@
 0.6.7 (2012-03-20)
 ------------------
 
-- Change the representation (verbose_name) of the transmeta labels 
+- Change the representation (verbose_name) of the transmeta labels
 
 
 0.6.6 (2012-02-06)
